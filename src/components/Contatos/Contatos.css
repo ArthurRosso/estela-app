@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova:regular,bold,italic&subset=latin,latin-ext');
+
+.Contatos {    
+    border: 1.5px solid #3BAEA2;
+    box-sizing: border-box;
+
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #404040;   
+}

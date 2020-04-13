@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova:regular,bold,italic&subset=latin,latin-ext');
+
+.Perfil {    
+    border: 1.5px solid #3BAEA2;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.Perfil-name {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    /* Roxo */
+
+    color: #A92B87;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.Perfil-espec {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    
+    color: #404040;    
+}
+
+.Perfil-reg {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: #B6B9B9;
+    
+}
+
+.Perfil-local {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #404040;
+}
+
+.Perfil-button {
+    text-align: center;
+}
