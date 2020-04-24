@@ -3,6 +3,7 @@
 .Contatos {    
     border: 1.5px solid #3BAEA2;
     box-sizing: border-box;
+    border-radius: 9px;
 
     font-family: Proxima Nova;
     font-style: normal;
@@ -11,4 +12,42 @@
     line-height: 19px;
     
     color: #404040;   
+}
+
+.fa-globe {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-envelope-o {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-whatsapp {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-phone {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-instagram {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-facebook-official {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-linkedin {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+.fa-youtube-play {
+    color: #3BAEA2;
+    font-size: 20px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
 }

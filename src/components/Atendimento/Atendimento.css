@@ -3,6 +3,7 @@
 .Atendimento {
     border: 1.5px solid #3BAEA2;
     box-sizing: border-box;
+    border-radius: 9px;
 }
 
 .Atendimento-header {
@@ -39,4 +40,9 @@
     letter-spacing: 0.04em;
     
     color: #404040;
+}
+
+.fa-angle-down{
+    color: #404040;
+    font-size: 21px;
 }
