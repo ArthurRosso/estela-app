@@ -3,6 +3,7 @@
 .Conheca {
     border: 1.5px solid #3BAEA2;
     box-sizing: border-box;
+    border-radius: 9px;
 }
 
 .Conheca-header {
@@ -39,4 +40,14 @@
     letter-spacing: 0.04em;
     
     color: #404040;
+    padding-top: 2px;
+}
+
+#relatar {
+    border: 1px solid #3BAEA2;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #3BAEA2;
 }

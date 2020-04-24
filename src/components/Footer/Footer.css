@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova:regular,bold,italic&subset=latin,latin-ext');
+
+.Footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+span { 
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    
+    color: #3BAEA2; 
+}
